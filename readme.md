@@ -4,7 +4,10 @@ I created a simple api example using [Expressjs](http://www.expressjs.com)
 
 ## Installation
 
-- clone the repository 
+- clone the repository
+```bash
+git clone https://github.com/ehsanghaffarii/express-api-demo.git
+```
 
 - install dependencies
 ```bash
